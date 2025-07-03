@@ -9,7 +9,7 @@ This Python script retrieves elevation data (in meters) for a list of geographic
 - Adds an `Elevation` column
 - Saves a new file: `Altitude check with Elevation.xlsx`
 
-## Checking the altitude
+## Checking the altitude (after you already did the Setup)
 1. Input your long and lat in the "Altitude check.xlsx" file
 2. Run the altitude.py file
 3. You can see a new created .xlsx file that include altitude
